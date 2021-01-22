@@ -37,7 +37,7 @@ namespace Sales_web_MVC.Data
             Sellers s3 = new Sellers(3, "Jenny", "jenny@gmail.com",
                 new DateTime(2001, 9, 17), 1800.0, d2);
             Sellers s4 = new Sellers(4, "Maria Auxiliadora", "cida@gmail.com",
-                new DateTime(1999, 6, 7), 6800.0, d3);
+                new DateTime(1979, 1, 7), 7000.0, d3);
             Sellers s5 = new Sellers(5, "Lais", "lais@gmail.com",
                 new DateTime(2005, 6, 7), 1800.0, d2);
             Sellers s6 = new Sellers(6, "Silvana", "silvana@gmail.com",
