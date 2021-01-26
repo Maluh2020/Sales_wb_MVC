@@ -18,7 +18,7 @@ namespace Sales_web_MVC.Data
 
         public void seed()
         {
-            if(_context.Department.Any() || 
+            if (_context.Department.Any() ||
                 _context.Sellers.Any() ||
                 _context.SalesRecord.Any())
             {
